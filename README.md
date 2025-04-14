@@ -4,7 +4,7 @@ A child development platform that helps parents track vaccination, nutrition, an
 
 A smart, child-friendly web platform that empowers parents to monitor and support their child's development — from infancy through adolescence — using personalized insights powered by AI and ML.
 
-![image](https://github.com/user-attachments/assets/c8d9276d-b7f0-49c5-9a9f-6cc72f80f16b)
+![image](https://github.com/user-attachments/assets/228bc905-f581-405a-ab66-e4b166af17e0)
 
 
 ---
