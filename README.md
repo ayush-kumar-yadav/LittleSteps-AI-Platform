@@ -69,15 +69,7 @@ MIT License
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/LittleSteps.AI.git
+https://github.com/ayush-kumar-yadav/LittleSteps-AI-Platform.git
 
-# Navigate into the project directory
-cd LittleSteps.AI
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
 
 
